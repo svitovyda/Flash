@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Products>
+	<Product name="Light Feeling Sun Lotion">
+		<Title>Light Feeling Sun Lotion Title</Title>
+		<Description>Light Feeling Sun Lotion Description</Description>
+		<Images>
+			<Thumbnail>images/horce_sea1_upic.gif</Thumbnail>
+			<Standard>images/horce_sea1.gif</Standard>
+			<Large>images/horce_sea1_big.gif</Large>
+		</Images>
+	</Product>
+	<Product name="Firming Sun Lotion">
+		<Title>Firming Sun Lotion Title</Title>
+		<Description>Firming Sun Lotion Description</Description>
+		<Images>
+			<Thumbnail>images/horce_sea2_upic.gif</Thumbnail>
+			<Standard>images/horce_sea2.gif</Standard>
+			<Large>images/horce_sea2_big.gif</Large>
+		</Images>
+	</Product>
+	<Product name="Lait Corps Réparateur SOS ">
+		<Title>Lait Corps Réparateur SOS Title</Title>
+		<Description>Lait Corps Réparateur SOS Description</Description>
+		<Images>
+			<Thumbnail>images/cool_rat_upic.jpg</Thumbnail>
+			<Standard>images/cool_rat.jpg</Standard>
+			<Large>images/cool_rat_big.jpg</Large>
+		</Images>
+	</Product>
+</Products>
