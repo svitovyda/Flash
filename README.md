@@ -10,7 +10,7 @@ Implemented there my own DistortionMap variation.
 
 ## Gallery
 Another test task to create simple gallery navigation using PureMVC (which I tried
-first and time in my life. I like more RobotLegs)
+first and last time in my life. I like more RobotLegs)
 
 ## Utils
 Different small utils:
